@@ -23,7 +23,7 @@ Our website backend relies on a Google Cloud Run and Google Cloud SQL infastruct
 
 
 #### Running locally:
-- Install all requirements from ```./data/requirements.txt```.
+- Install all requirements from ```requirements.txt```.
 
 - Download and install the [Google Cloud SQL Auth Proxy](https://docs.cloud.google.com/sql/docs/mysql/sql-proxy).
 
